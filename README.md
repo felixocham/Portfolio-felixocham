@@ -3,7 +3,7 @@ To help you navigate easily on my portfolio in Data, here is my table of content
 
 [Models in MS Excel](https://github.com/felixocham/MS-Excel/tree/main)
 
-[Analysis in PowerBI](https://github.com/felixocham/PowerBI/blob/main/README.md)
+[Analysis in PowerBI](https://github.com/felixocham/PowerBI/blob/main/)
 
 [SQL in Postgres](https://github.com/felixocham/SQL-in-Postgres/tree/main)
 
